@@ -9,6 +9,7 @@ import Hero from './Components/Hero'
 import Cooktails from './Components/Cooktails'
 import About from './Components/About'
 import Art from './Components/Art'
+import Menu from './Components/Menu'
 
 function App() {
     return (
@@ -18,6 +19,7 @@ function App() {
             <Cooktails />
             <About />
             <Art />
+            <Menu />
         </main>
     )
 }
