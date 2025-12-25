@@ -7,6 +7,7 @@ import React from 'react'
 import Navbar from './Components/Navbar'
 import Hero from './Components/Hero'
 import Cooktails from './Components/Cooktails'
+import About from './Components/About'
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
             <Navbar />
             <Hero />
             <Cooktails />
+            <About />
         </main>
     )
 }
