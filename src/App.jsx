@@ -10,6 +10,7 @@ import Cooktails from './Components/Cooktails'
 import About from './Components/About'
 import Art from './Components/Art'
 import Menu from './Components/Menu'
+import Contact from './Components/Cantact'
 
 function App() {
     return (
@@ -20,6 +21,7 @@ function App() {
             <About />
             <Art />
             <Menu />
+            <Contact />
         </main>
     )
 }
